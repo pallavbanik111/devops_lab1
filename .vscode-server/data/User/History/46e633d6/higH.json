@@ -1,0 +1,8 @@
+{
+    "remote.SSH.remotePlatform": {
+        "Docker_CE": "linux",
+        "DevOps_EC2": "linux"
+    },
+    "redhat.telemetry.enabled": true,
+    "security.workspace.trust.untrustedFiles": "open"
+}
